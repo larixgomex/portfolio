@@ -5,8 +5,10 @@ You will find here a selection of my favourite projects.
 ### [**ENG - Customer Segmentation - Food Delivery App**](https://github.com/larixgomex/customer_segmentation)
  - Data Analysis with Python: [Google Colab](https://github.com/larixgomex/customer_segmentation/blob/main/Customer_Segmentation.ipynb)
  - Article in Portuguese: [Medium](https://medium.com/@larixgomex/segmenta%C3%A7%C3%A3o-de-clientes-com-rfm-em-python-3a97e534ffa1)
-<p align="center">
+<p align="left">
   <img alt="customers_matrix" width="40%" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*WoVD8BJMmCdMZUmgF283sw.png">
+</p> <p align="right">
+  <img alt="customers_matrix" width="40%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*E7rKawOotUjFYV8S7_Tj2A.jpeg">
 </p>
 
 ### [**ENG - One in Four Americans Say It's Wrong to Eat Octopus - Data Visualization with Python**](https://github.com/larixgomex/portfolio/blob/main/Matplotlib_Practice_MOMwk72024.ipynb)
