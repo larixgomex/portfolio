@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there! 👋
 You will find here a selection of my favourite projects.
 
 ## Projects
@@ -13,7 +13,7 @@ You will find here a selection of my favourite projects.
 ### [**ENG - One in Four Americans Say It's Wrong to Eat Octopus - Data Visualization with Python**](https://github.com/larixgomex/portfolio/blob/main/Matplotlib_Practice_MOMwk72024.ipynb)
 - Data Visualization with Matplotlib: [Google Colab](https://github.com/larixgomex/portfolio/blob/main/Matplotlib_Practice_MOMwk72024.ipynb)
 <p align="left">
-  <img alt="bar_chart" width="40%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wK2gcuwHw6kW_sBX8hXgUg.png">
+  <img alt="bar_chart" width="50%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wK2gcuwHw6kW_sBX8hXgUg.png">
   
 ### [**PT_BR - Processo Seletivo Indicium Lighthouse - BanVic**](https://github.com/larixgomex/LH_AD_LARISSAGOMESDESANTANNA)
 - Dashboard no Tableau para apresentação das métricas principais: [Tableau](https://public.tableau.com/app/profile/larissa.gomes5648/viz/wip_LH/Dashboard1)
