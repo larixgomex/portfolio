@@ -19,5 +19,5 @@ You will find here a selection of my favourite projects.
 - Processamento e Análise de Dados em Python: [Google Colab](https://github.com/larixgomex/LH_AD_LARISSAGOMESDESANTANNA/blob/main/LH_AD_LARISSAGOMESDESANTANNA.ipynb)
 - Apresentação do projeto com relatório: [pdf](https://github.com/larixgomex/LH_AD_LARISSAGOMESDESANTANNA/blob/main/ficheiros/relatorio.pdf)
 <p align="left">
-  <img alt="customers_matrix" width="40%" src="https://github.com/user-attachments/assets/bccc9eb2-ebf5-41a2-956b-bfa0c607f24a">
+  <img alt="line_chart" width="60%" src="https://github.com/user-attachments/assets/bccc9eb2-ebf5-41a2-956b-bfa0c607f24a">
 </p>
