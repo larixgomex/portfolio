@@ -21,3 +21,7 @@ You will find here a selection of my favourite projects.
 <p align="left">
   <img alt="line_chart" width="60%" src="https://github.com/user-attachments/assets/bccc9eb2-ebf5-41a2-956b-bfa0c607f24a">
 </p>
+
+### [**ENG - An overview of AirBnb listings in 10 major cities**](https://mavenanalytics.io/project/4176)
+![image](https://github.com/user-attachments/assets/44513707-2cc2-401d-bbc1-61d95b790ae3)
+
