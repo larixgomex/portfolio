@@ -25,6 +25,7 @@ You will find here a selection of my favourite projects.
 ### [**ENG - An overview of AirBnb listings in 10 major cities**](https://mavenanalytics.io/project/4176)
 - Tableau Dashboard presenting 10 years of airBnb in 10 major cities: [Tableau](https://public.tableau.com/app/profile/larissa.gomes5648/viz/AirBnbListingsMavenAnalytics/Dashboard1)
 
+![image](https://github.com/user-attachments/assets/598124f2-1504-4d00-956b-46d6aae0a879)
 
 ![image](https://github.com/user-attachments/assets/44513707-2cc2-401d-bbc1-61d95b790ae3)
 
